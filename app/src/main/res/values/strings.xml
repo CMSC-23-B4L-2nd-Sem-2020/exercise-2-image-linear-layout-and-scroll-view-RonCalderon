@@ -15,8 +15,11 @@
   -->
 <resources>
     <!-- App title -->
-    <string name="app_name">DiceRoller</string>
+    <string name="app_name">exer2_calderon_b4l</string>
 
     <!-- Button label -->
-    <string name="roll_label">Roll</string>
+    <string name="roll_label">Start</string>
+    <string name="princess_text" />
+    <string name="Retry_button_text">Retry</string>
+    <string name="top_text">Which Disney Princess Are You?</string>
 </resources>
